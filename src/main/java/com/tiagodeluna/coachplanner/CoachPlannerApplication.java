@@ -1,4 +1,4 @@
-package com.tiagodeluna.CoachPlanner;
+package com.tiagodeluna.coachplanner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

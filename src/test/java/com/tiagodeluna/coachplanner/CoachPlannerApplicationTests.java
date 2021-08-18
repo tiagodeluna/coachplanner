@@ -1,4 +1,4 @@
-package com.tiagodeluna.CoachPlanner;
+package com.tiagodeluna.coachplanner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
