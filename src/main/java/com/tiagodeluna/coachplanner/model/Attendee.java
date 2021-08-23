@@ -1,4 +1,4 @@
 package com.tiagodeluna.coachplanner.model;
 
-public class Attendee extends Person {
+public final class Attendee extends Person {
 }
