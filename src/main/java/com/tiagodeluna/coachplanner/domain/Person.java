@@ -1,4 +1,4 @@
-package com.tiagodeluna.coachplanner.model;
+package com.tiagodeluna.coachplanner.domain;
 
 import lombok.Getter;
 import lombok.Setter;
