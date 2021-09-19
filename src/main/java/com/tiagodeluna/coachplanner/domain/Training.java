@@ -21,7 +21,7 @@ public abstract class Training {
 
     private @Id @GeneratedValue Long id;
     private String title;
-    // TODO Fix relationship with Schedule
+    // TODO Fix relationship with Schedulem
     private Schedule schedule;
     private String description;
 
